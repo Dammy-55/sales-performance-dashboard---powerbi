@@ -89,7 +89,7 @@ Insights across Food, Protein, Dairy, Household categories.
 ## 📸 Dashboard Preview  
 
 Add the screenshot here:  
-`visuals/dashboard_screenshot.png`
+`Sales-Performance-project.png`
 
 ---
 
