@@ -38,7 +38,11 @@ This project is a Sales Performance Dashboard built using Power BI to analyze sa
 ---
 
 ## 📸 Dashboard Preview
-(Add screenshots of your Power BI dashboard here)
+![Sales Dashboard](<img width="764" height="430" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/0572279a-5a99-4870-a2a8-115fffefbce5" />
+## KPI view
+![KPI](<img width="103" height="390" alt="KPI view" src="https://github.com/user-attachments/assets/e8972301-960b-46dd-ad0a-c9b6ac6f652b" />
+
+
 
 ---
 
